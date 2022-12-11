@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Piano</string>
+    <string name="lblDo">DO</string>
+    <string name="lblRe">RE</string>
+    <string name="lblMi">MI</string>
+    <string name="lblFa">FA</string>
+    <string name="lblSol">SOL</string>
+    <string name="lblLa">LA</string>
+    <string name="lblSi">SI</string>
+</resources>
